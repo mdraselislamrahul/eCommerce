@@ -1,0 +1,243 @@
+.heading-1 {
+    background-color: rgb(246, 2, 153);
+}
+
+.heading-1 h5 {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 18px;
+    padding: 10px 0px;
+    color: #fff;
+}
+
+.heading-2 {
+    margin-top: 10px;
+}
+
+.heading-2 span :hover {
+    color: red;
+}
+
+.heading-2 p a {
+    text-decoration: none;
+    text-transform: capitalize;
+    color: rgb(49, 49, 49);
+    transition: .5s;
+}
+
+.heading-2 p a:hover {
+    color: red;
+}
+
+.header-3 h1 {
+    text-transform: uppercase;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+    transition: .5s;
+    margin-top: 20px;
+}
+
+.header-3 a {
+    text-decoration: none;
+}
+
+.header-3 h1:hover {
+    color: rgb(77, 64, 64);
+}
+
+.header-3 .Sarah {
+    height: 50px;
+    width: 500px;
+    padding: 0px 15px;
+    border: none;
+    margin-top: 20px;
+}
+
+.header-3 .button {
+    height: 53px;
+    padding: 0px 25px;
+    border: none;
+    background-color: red;
+    color: #fff;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    margin-left: px;
+}
+
+.header-3 ul {
+    text-align: left;
+    margin-left: -50px;
+    margin-top: 20px;
+}
+
+.header-3 ul li {
+    display: inline-block;
+    margin: 5px;
+}
+
+.header-3 ul li a {
+    color: black;
+    font-size: 20px;
+    padding: 10px 10px;
+    background: rgb(255, 253, 253);
+    font-size: 25px;
+    transition: .5s;
+}
+
+.header-3 ul li a:hover {
+    color: #fff;
+    background-color: red;
+}
+
+.header-4 ul {
+    margin-top: 50px;
+    text-align: left;
+}
+
+.header-4 ul li {
+    display: inline-block;
+}
+
+.header-4 ul li a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 0px 20px;
+    transition: .5s;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.header-4 ul li a:hover {
+    color: red;
+}
+
+.RSS-Syndication h2 {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.RSS-Syndication p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.RSS-Syndication h5 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+    display: block;
+}
+
+.RSS-Syndication ul li a {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    transition: .5s;
+}
+
+.RSS-Syndication ul li a:hover {
+    color: rgb(104, 104, 104);
+}
+
+.footer-1 .main {
+    display: flex;
+    margin-top: 80px;
+}
+
+.footer-1 .div-1 {
+    padding: 15px;
+}
+
+.footer-1 .div-1 p {
+    font-size: 12px;
+    margin-top: 15px;
+}
+
+.footer-1 .div-1 b {
+    text-transform: uppercase;
+}
+
+.footer-2 b {
+    text-transform: uppercase;
+}
+
+.footer-2 .G-mail {
+    padding: 0px 20px;
+    height: 40px;
+    width: 380px;
+    border: none;
+}
+
+.footer-2 .Link {
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(247, 76, 38);
+    padding: 10px 30px;
+    text-transform: uppercase;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: -2px;
+    display: inline-block;
+}
+
+.footer-3 {
+    margin-top: 90px;
+}
+
+.footer-3 ul {
+    margin-left: -45px;
+    margin-top: 20px;
+}
+
+.footer-3 ul li {
+    list-style: none;
+    line-height: 30px;
+}
+
+.footer-3 ul li a {
+    text-decoration: none;
+    color: rgb(94, 94, 94);
+    transition: .5s;
+}
+
+.footer-3 ul li a:hover {
+    color: red;
+}
+
+.footer-3 ul li span {
+    font-size: 10px;
+    padding: 0px 10px;
+    color: rgb(94, 94, 94);
+}
+
+.footer-3 b {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.footer-4 b {
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: block;
+    text-align: center;
+}
+
+.footer-4 ul {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-4 ul li {
+    display: inline-block;
+}
+
+.footer-4 ul li a {
+    text-decoration: none;
+    color: rgb(94, 94, 94);
+    padding: 0px 20px;
+    border-right: 1px solid rgb(94, 94, 94);
+    transition: .5s;
+}
+
+.footer-4 ul li a:hover {
+    color: red;
+}
